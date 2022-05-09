@@ -11,13 +11,13 @@ http://speleotrove.com/decimal/decnumber.html
 for the errata
 http://speleotrove.com/decimal/decnumerr.html
 
-quoting verbatim from the above
+`quoting verbatim from the above`
 A decNumber user has reported that Visual Studio 2010 (32 bit) has difficulty with compiling the decNumber source files.
 Here are his workarounds.
 http://speleotrove.com/decimal/decnumVS.html
 
 the workaround has been implemented using
-quoting verbatim from the above
+`quoting verbatim from the above`
 
 Method 2:
 In file: "decBasic.c"
@@ -67,7 +67,7 @@ References to decCommon.c and decBasic.c in commentary should also be modified t
 additional fixes
 
 http://speleotrove.com/decimal/decnumerr.html
-quoting verbatim from the above
+`quoting verbatim from the above`
 In addition, an earlier fix (thought to have been applied in 3.67) is still missing in 3.68:
 decDoubleIsSigned and decQuadIsSigned return incorrect result.
 The documentation indicates that these functions return 1 if the number being tested is signed; however they return DECFLOAT_Sign in this case.

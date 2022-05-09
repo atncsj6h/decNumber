@@ -2,15 +2,14 @@
 #
 include_guard( GLOBAL )
 
-#- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-#   the headers
+# the public headers
 set( decNumber_HDRS
   decNumber_version.h
-  src/include/decContext.h
-  src/include/decimal128.h
-  src/include/decimal32.h
-  src/include/decimal64.h
-  src/include/decNumber.h
-  src/include/decPacked.h
-  src/include/decQuad.h
+  include/decContext.h
+  include/decimal128.h
+  include/decimal32.h
+  include/decimal64.h
+  include/decNumber.h
+  include/decPacked.h
+  include/decQuad.h
 )

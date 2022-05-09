@@ -10,13 +10,13 @@
 ##  COPYRIGHT
 *
 * the original software
-* is copyright of the original owners under the original licence
+* is copyright of the original owners under the original licence[s]
 * `http://speleotrove.com/decimal`
 *
 * source code changes are dedicated to the public domain
 *
 * the cmake infrastructure is
-* Copyright (c) 2020-2021 Enrico Sorichetti
+* Copyright (c) 2022-2022 Enrico Sorichetti
 * Distributed under the Boost Software License, Version 1.0
 * See accompanying file `BOOST_LICENSE_1_0.txt` or copy at
 * `[http://www.boost.org/LICENSE_1_0.txt](http://www.boost.org/LICENSE_1_0.txt)`
@@ -34,7 +34,7 @@
 * `https://github.com/atncsj6h/cmToolKit.git`
 * `git@github.com:atncsj6h/cmToolKit.git`
 *
-* cmake_minimum_required( VERSION 3.21 )
+* cmake_minimum_required( VERSION 3.22 )
 * `https://cmake.org/download/`
 *
 * pkgconf
